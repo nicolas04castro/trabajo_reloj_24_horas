@@ -10,7 +10,7 @@ La sección 2 es la que está ubicada en el medio con un color celeste y esta re
 La última sección la del lado derecho y representada con un color azul oscuro es la que representa las horas. En esta sección se puede evidenciar un sol y la luna hora en la que se estima sale cada uno el sol cuando amanece y la luna cuando se empieza a oscurecer.
 
 El link del video codigo ejecutandose es
-[Github]( [Githttps://youtu.be/48OSFfnmOR0)
+[Github](https://youtu.be/48OSFfnmOR0)
 ### Codigo desarrollado
 
 vertical_minutes = 0
