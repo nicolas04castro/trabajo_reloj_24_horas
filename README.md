@@ -1,5 +1,4 @@
 # trabajo_reloj_24_horas
-Código y link de el proyecto de un reloj con minutos, segundos, y horas desarrollado en processing
 
 ## Explicación
 Se va a presentar el código de un reloj gráfico, sin números, el cual fue desarrollado en processing.
@@ -10,6 +9,8 @@ La primera sección (parte izquierda) es la sección que representa los segundos
 La sección 2 es la que está ubicada en el medio con un color celeste y esta representa los minutos.
 La última sección la del lado derecho y representada con un color azul oscuro es la que representa las horas. En esta sección se puede evidenciar un sol y la luna hora en la que se estima sale cada uno el sol cuando amanece y la luna cuando se empieza a oscurecer.
 
+El link del video codigo ejecutandose es
+[Github]( [Githttps://youtu.be/48OSFfnmOR0)
 ### Codigo desarrollado
 
 vertical_minutes = 0
